@@ -2,7 +2,6 @@ Problem Link : https://practice.geeksforgeeks.org/problems/count-the-subarrays-h
 
 ************************************************************************************************
 
-
 class Solution {
 public:
     int numSubarrayProductLessThanK(vector<int>& nums, int k) {
